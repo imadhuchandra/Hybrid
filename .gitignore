@@ -1,0 +1,193 @@
+# Compiled binaries
+*.dll
+*.exe
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE specific
+.vscode/*
+.idea/*
+
+# Compiled output
+/target/
+/classes/
+/out/
+
+# Dependency directories
+/node_modules/
+/bower_components/
+
+# Package files
+*.npm
+*.lock
+*.yarn
+yarn-error.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs and databases
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Editor specific
+*.swp
+*.swo
+*.swm
+*.swn
+*.swpx
+*.swpx
+*.swpx
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Visual Studio Code specific
+.vscode/
+
+# macOS specific
+.DS_Store
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Windows image file caches
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled Java files
+*.class
+
+# Compiled Ruby files
+*.so
+
+# Compiled PHP files
+*.php*
+
+# Compiled Perl files
+*.plc
+*.plx
+
+# Compiled Lisp files
+*.fas
+*.fasl
+
+# Compiled Clojure files
+*.class
+
+# Compiled Dart files
+*.part
+*.sdk
+*.dunit
+
+# Compiled Lua files
+*.lo
+*.la
+
+# Compiled Go files
+*.a
+*.o
+
+# Compiled JavaScript files
+*.js.map
+
+# Compiled TypeScript files
+*.tsbuildinfo
+*.tsbuildinfo.*
+
+# Compiled CoffeeScript files
+*.js
+*.js.map
+
+# Compiled Swift files
+*.swiftdoc
+*.swiftmodule
+
+# Compiled Rust files
+*.rlib
+*.rmeta
+
+# Compiled C/C++ files
+*.o
+*.so
+
+# Compiled Fortran files
+*.mod
+
+# Compiled D files
+*.a
+*.o
+
+# Compiled Dart files
+*.kernel_blob.bin
+*.snapshot_blob.bin
+*.unstripped
+*.so
+*.dill
+*.app
+
+# Compiled Rust files
+*.rmeta
+*.r2d2
+*.rmeta.orig
+*.rlib
+
+# Compiled Ruby files
+*.rbc
+
+# Compiled Go files
+*.exe
+*.test
+
+# Compiled C and C++ files
+*.out
+
+# Compiled Perl files
+*.perl
+
+# Compiled Swift files
+*.llbuild
+
+# Compiled Julia files
+*.ji
+
+# Compiled Haskell files
+*.hi
+*.chi
+*.chs.h
+*.o
+*.hi.*
+
+# Compiled Erlang files
+*.beam
+*.beam.*
+*beam.*
+
+# Compiled Java files
+*.class
